@@ -1,3 +1,6 @@
+<img width="2172" height="724" alt="Bannière tech néon de Lise Pinheiro" src="https://github.com/user-attachments/assets/2e19728d-0b62-4000-b3e4-f382612c612b" />
+
+
 # Lise Pinheiro 👋
 
 ### Java · Applications métier · QA Automation · Sécurité applicative
