@@ -27,7 +27,7 @@ Le projet évolue autour de deux composants complémentaires :
 - Règles métier, calculs temporels et persistance locale.
 - Tests unitaires et de régression avec JUnit.
 
-[Explorer le client Gestion+](https://github.com/lisepinheiro2-lgtm/gestionRemplacement)
+[Explorer le client Gestion+](https://github.com/lisepinheiro2-lgtm/gestionplus-client)
 
 **🔐 Serveur — Spring Boot / PostgreSQL**
 
