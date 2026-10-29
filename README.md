@@ -9,7 +9,7 @@
 
 J'ai découvert la programmation Java en mai 2026 et j'ai repris son apprentissage de manière intensive en septembre. Depuis, je développe mes compétences à travers des projets concrets, notamment Gestion+, une application métier Java Swing dont je construis également le serveur Spring Boot.
 
-Mon objectif professionnel est de rejoindre une équipe en ** Développement back-end ou en Java QA Automation **, avec un intérêt grandissant pour la **sécurité applicative (AppSec)** : authentification, autorisations, tests de sécurité et protection des données.
+Mon objectif professionnel est de rejoindre une équipe en développement back-end Java ou en QA Automation, avec un intérêt grandissant pour la sécurité applicative (AppSec) : authentification, autorisations, tests de sécurité et protection des données.
 
 ---
 
