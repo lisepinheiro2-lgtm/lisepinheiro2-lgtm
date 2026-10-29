@@ -1,15 +1,16 @@
-<img width="2172" height="724" alt="Bannière tech néon de Lise Pinheiro" src="https://github.com/user-attachments/assets/2e19728d-0b62-4000-b3e4-f382612c612b" />
-
+<img width="2171" height="724" alt="Lise Pinheiro — Java back-end, logique métier et intérêt pour l’AppSec" src="https://raw.githubusercontent.com/lisepinheiro2-lgtm/lisepinheiro2-lgtm/main/assets/banniere-java-backend-appsec.png" />
 
 # Lise Pinheiro 👋
 
-### Java · Applications métier · QA Automation · Sécurité applicative
+### Développement back-end Java · Logique métier · AppSec
 
-💠 **En reconversion professionnelle vers les métiers du développement Java et du test logiciel.**
+💠 **En reconversion professionnelle vers le développement back-end Java.**
 
-J'ai découvert la programmation Java en mai 2026 et j'ai repris son apprentissage de manière intensive en septembre. Depuis, je développe mes compétences à travers des projets concrets, notamment Gestion+, une application métier Java Swing dont je construis également le serveur Spring Boot.
+J'ai découvert la programmation Java en mai 2026 et j'ai repris son apprentissage de manière intensive en septembre. Depuis, je développe mes compétences à travers des projets concrets, notamment **Gestion+**, une application métier Java Swing dont je construis également le serveur Spring Boot.
 
-Mon objectif professionnel est de rejoindre une équipe en développement back-end Java ou en QA Automation, avec un intérêt grandissant pour la sécurité applicative (AppSec) : authentification, autorisations, tests de sécurité et protection des données.
+Ce qui m'attire le plus : **traduire des besoins concrets en règles métier**, structurer les services et les données, et comprendre les interactions entre les composants d'une application.
+
+Mon objectif est de rejoindre une équipe en **développement back-end Java**. En parallèle, je souhaite approfondir la **sécurité applicative (AppSec)**, notamment l'authentification, les autorisations et la protection des données.
 
 ---
 
@@ -43,11 +44,13 @@ Le projet évolue autour de deux composants complémentaires :
 
 ---
 
-## 🧪 Apprendre, comprendre, tester
+## 🧩 Concevoir, comprendre, consolider
 
 Je cherche à comprendre **pourquoi une solution fonctionne**, pas uniquement à reproduire une syntaxe.
 
-Mon apprentissage comprend la programmation orientée objet, les collections, les dates et durées, la gestion des erreurs, les tests JUnit et la séparation des responsabilités.
+Mon apprentissage comprend la programmation orientée objet, les collections, les dates et durées, la gestion des erreurs, la persistance et la séparation des responsabilités.
+
+Les tests JUnit me servent à vérifier les règles métier et à repérer les régressions au fil des évolutions du projet.
 
 Je consolide ces connaissances dans mon dépôt d'exercices :
 
@@ -55,12 +58,12 @@ Je consolide ces connaissances dans mon dépôt d'exercices :
 
 ## 🎯 Mon objectif
 
-Intégrer une équipe technique pour continuer à progresser, contribuer à des logiciels fiables et développer mes compétences en automatisation des tests et en sécurité.
+Rejoindre une équipe en **développement back-end Java** pour contribuer à des applications métier, renforcer mes compétences de conception et approfondir progressivement la sécurité applicative.
 
 📍 **Hérault (34)** — Montpellier, Béziers, Pézenas et environs.
 
-🔎 **Ouverte aux opportunités d'alternance, de POEI et d'immersion professionnelle**, notamment en QA/test logiciel et développement Java back-end.
+🔎 **Ouverte aux opportunités d'alternance, de POEI et d'immersion professionnelle en développement Java back-end.**
 
 ---
 
-*Construire, comprendre, vérifier, améliorer.*
+*Comprendre le métier, construire le back-end, sécuriser les accès.*
